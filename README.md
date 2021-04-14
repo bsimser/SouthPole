@@ -6,6 +6,10 @@ A recreation of the Amundsen–Scott South Pole Station in Unity
 
 * Unity 2019.4.24f1
 
+## Assets
+
+* [First Person All-in-One](https://assetstore.unity.com/packages/tools/input-management/first-person-all-in-one-135316)
+
 ## Packages Used
 
 * ProBuilder
