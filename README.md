@@ -6,9 +6,10 @@ A recreation of the Amundsen–Scott South Pole Station in Unity
 
 * Unity 2019.4.24f1
 
-## Assets
+## Assets Included (free)
 
 * [First Person All-in-One](https://assetstore.unity.com/packages/tools/input-management/first-person-all-in-one-135316)
+* [POLYGON Starter Pack - Low Poly 3D Art by Synty](https://assetstore.unity.com/packages/3d/props/polygon-starter-pack-low-poly-3d-art-by-synty-156819)
 
 ## Packages Used
 
