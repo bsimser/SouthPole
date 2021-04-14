@@ -6,6 +6,12 @@ A recreation of the Amundsen–Scott South Pole Station in Unity
 
 * Unity 2019.4.24f1
 
+## Packages Used
+
+* ProBuilder
+* ProGrids
+* Post Processing
+
 ## References
 
 * [Amundsen-Scott South Pole Station](https://www.southpolestation.com/) (photos, site plans, blueprints, etc.)
